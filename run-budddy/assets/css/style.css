@@ -120,5 +120,21 @@ section {
 }
 /* HERO STYLES END */
 
+.intro {
+  text-align: center;
+  display: inline-block;
+}
+
+.intro h2 {
+  font-size: 55px;
+  color: #024e76;
+  margin-bottom: 35px;
+  padding: 0 100px 20px 100px;
+  border-bottom: 3px solid;
+  border-color: #fce138;
+  display: inline-block;
+}
+
+
 
 
